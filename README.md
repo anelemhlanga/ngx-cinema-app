@@ -1,6 +1,6 @@
 # NgxCinemaApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
+Basics of implementing CRUD (create, read, update, delete) operations in the Apollo client. The result will be a movie application where you can create, update, or delete movies.
 
 ## Features
 
